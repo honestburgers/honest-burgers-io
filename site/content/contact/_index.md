@@ -1,19 +1,12 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/honestburgers_cmyk.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: How do I get access to the API?
+    text: Your project lead will work with us to get your API access sorted. They'll
+      work with you to ensure you get access to all of the data you need when
+      the time is right.
 ---
+We love talking about what we do. If you've got any questions or feedback you can reach us in the form below.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<h3 class="f4 b lh-title mb2">Frequently asked questions</h3>
